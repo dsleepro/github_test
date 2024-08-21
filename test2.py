@@ -8,4 +8,5 @@ print('hi')
 
 print(3+4)
 print(5)
+print(6)
 
